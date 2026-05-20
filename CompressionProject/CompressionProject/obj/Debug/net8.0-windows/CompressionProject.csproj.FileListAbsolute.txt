@@ -1,0 +1,14 @@
+E:\IT\2\NP\Project\CompressionProject\CompressionProject\CompressionProject\bin\Debug\net8.0-windows\CompressionProject.exe
+E:\IT\2\NP\Project\CompressionProject\CompressionProject\CompressionProject\bin\Debug\net8.0-windows\CompressionProject.deps.json
+E:\IT\2\NP\Project\CompressionProject\CompressionProject\CompressionProject\bin\Debug\net8.0-windows\CompressionProject.runtimeconfig.json
+E:\IT\2\NP\Project\CompressionProject\CompressionProject\CompressionProject\bin\Debug\net8.0-windows\CompressionProject.dll
+E:\IT\2\NP\Project\CompressionProject\CompressionProject\CompressionProject\bin\Debug\net8.0-windows\CompressionProject.pdb
+E:\IT\2\NP\Project\CompressionProject\CompressionProject\CompressionProject\obj\Debug\net8.0-windows\CompressionProject.GeneratedMSBuildEditorConfig.editorconfig
+E:\IT\2\NP\Project\CompressionProject\CompressionProject\CompressionProject\obj\Debug\net8.0-windows\CompressionProject.AssemblyInfoInputs.cache
+E:\IT\2\NP\Project\CompressionProject\CompressionProject\CompressionProject\obj\Debug\net8.0-windows\CompressionProject.AssemblyInfo.cs
+E:\IT\2\NP\Project\CompressionProject\CompressionProject\CompressionProject\obj\Debug\net8.0-windows\CompressionProject.csproj.CoreCompileInputs.cache
+E:\IT\2\NP\Project\CompressionProject\CompressionProject\CompressionProject\obj\Debug\net8.0-windows\CompressionProject.dll
+E:\IT\2\NP\Project\CompressionProject\CompressionProject\CompressionProject\obj\Debug\net8.0-windows\refint\CompressionProject.dll
+E:\IT\2\NP\Project\CompressionProject\CompressionProject\CompressionProject\obj\Debug\net8.0-windows\CompressionProject.pdb
+E:\IT\2\NP\Project\CompressionProject\CompressionProject\CompressionProject\obj\Debug\net8.0-windows\CompressionProject.genruntimeconfig.cache
+E:\IT\2\NP\Project\CompressionProject\CompressionProject\CompressionProject\obj\Debug\net8.0-windows\ref\CompressionProject.dll
